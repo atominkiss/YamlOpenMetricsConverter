@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+// TODO: it's a template. Need correction when start implementing.
+package SomeName;
+
+service SomeService {
+  rpc Do(Request) returns (Response) {}
+}
+
+message Request {
+  string message = 1;
+}
+
+message Response {
+  string message = 1;
+}
