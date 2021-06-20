@@ -1,0 +1,9 @@
+currencies:
+  - name: usd
+    value: 70.3450001
+  - name: eur
+    value: 80
+  - name: rub
+    value: 1.00001
+  - name: aud
+    value:
